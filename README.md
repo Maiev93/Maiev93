@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Elena. I'm a frontend developer.
+## Hi there 👋 I'm Elena. I'm a frontend developer.
 
 - 🔭 I’m currently working on ERP system in SibTechProject
 - 💻 My skills: HTML, CSS, BEM, SCSS/SASS, JavaScript, Vue, Nuxt
