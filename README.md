@@ -8,7 +8,7 @@
   
 ---
 
-### My [portfolio](https://maiev93.github.io/portfolio/) 
+### 📃 My [portfolio](https://maiev93.github.io/portfolio/) 
 ### 📫 How to reach me: [TG](https://t.me/Maiev "Telegram"), email: elena.kalichkina.rho@gmail.com
 <!--
 **Maiev93/Maiev93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
