@@ -4,7 +4,7 @@
 - 💻 My skills: HTML, CSS, BEM, SCSS/SASS, JavaScript, Vue, Nuxt
 - 🌱 I’m currently learning web development in different technologies because I want to improve my skills and become a confident T-shaped specialist
 - 👅 I speak Russian (native), English (B1, fluent)
-- ⚡ Fun fact: I graduated from medical university. I have two cute cats. I learn CS on YouTube and free courses.
+- ⚡ Fun fact: I graduated from medical university. I have two cute cats. I learnt CS on YouTube and free courses.
   
 ---
 
