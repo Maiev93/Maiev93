@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Elena. I'm a frontend developer.
 
-- 🔭 I’m currently working on ERP system in SibTechProject
+- 🔭 I’m currently working on marketplace in NAN Agency
 - 💻 My skills: HTML, CSS, BEM, SCSS/SASS, JavaScript, Vue, Nuxt
 - 🌱 I’m currently learning web development in different technologies because I want to improve my skills and become a confident T-shaped specialist
 - 👅 I speak Russian (native), English (B1, fluent)
